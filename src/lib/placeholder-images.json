@@ -1,0 +1,76 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A vibrant and elegant event setup, conveying a sense of celebration and professionalism.",
+      "imageUrl": "https://images.unsplash.com/photo-1767249400894-73016d931e51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxldmVudCUyMGNlbGVicmF0aW9ufGVufDB8fHx8MTc2NzQyNzI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event celebration"
+    },
+    {
+      "id": "event-wedding",
+      "description": "A beautiful wedding ceremony scene.",
+      "imageUrl": "https://images.unsplash.com/photo-1507915977619-6ccfe8003ae6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3ZWRkaW5nJTIwY2VyZW1vbnl8ZW58MHx8fHwxNzY3NDIxMDIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wedding ceremony"
+    },
+    {
+      "id": "event-corporate",
+      "description": "A professional corporate conference.",
+      "imageUrl": "https://images.unsplash.com/photo-1561489396-888724a1543d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb3Jwb3JhdGUlMjBjb25mZXJlbmNlfGVufDB8fHx8MTc2NzQyNzI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "corporate conference"
+    },
+    {
+      "id": "event-birthday",
+      "description": "A lively birthday party with balloons and cake.",
+      "imageUrl": "https://images.unsplash.com/photo-1544155892-b2b6c64204fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiaXJ0aGRheSUyMHBhcnR5fGVufDB8fHx8MTc2NzQxODMzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "birthday party"
+    },
+    {
+      "id": "event-social",
+      "description": "A casual social gathering or party.",
+      "imageUrl": "https://images.unsplash.com/photo-1763630052152-e787f9d45e54?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzb2NpYWwlMjBwYXJ0eXxlbnwwfHx8fDE3Njc0MjcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social party"
+    },
+    {
+      "id": "vendor-caterer",
+      "description": "A display of gourmet food from a caterer.",
+      "imageUrl": "https://images.unsplash.com/photo-1628294895933-4360614f39dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmb29kJTIwY2F0ZXJpbmd8ZW58MHx8fHwxNzY3NDI3MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food catering"
+    },
+    {
+      "id": "vendor-photographer",
+      "description": "A photographer in action during an event.",
+      "imageUrl": "https://images.unsplash.com/photo-1763521401015-dd138761ab43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxldmVudCUyMHBob3RvZ3JhcGhlcnxlbnwwfHx8fDE3Njc0MjcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event photographer"
+    },
+    {
+      "id": "vendor-venue",
+      "description": "An elegant and spacious event venue.",
+      "imageUrl": "https://images.unsplash.com/photo-1620735692151-26a7e0748429?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxldmVudCUyMHZlbnVlfGVufDB8fHx8MTc2NzQyNzI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event venue"
+    },
+    {
+      "id": "vendor-dj",
+      "description": "A DJ performing at a party.",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1569521739482-5443615d3725?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwYXJ0eSUyMGRqfGVufDB8fHx8MTc2NzQyNzI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "party dj"
+    },
+    {
+      "id": "tool-menu",
+      "description": "Illustration for AI Menu Planner.",
+      "imageUrl": "https://images.unsplash.com/photo-1737141500169-4208e3296b28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnb3VybWV0JTIwbWVhbHxlbnwwfHx8fDE3Njc0MjcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet meal"
+    },
+    {
+      "id": "tool-decor",
+      "description": "Illustration for AI Decor Planner.",
+      "imageUrl": "https://images.unsplash.com/photo-1767050387941-b97f0d5a3232?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWxlZ2FudCUyMGRlY29yfGVufDB8fHx8MTc2NzQyNzI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elegant decor"
+    },
+    {
+      "id": "tool-demand",
+      "description": "Illustration for AI Demand Analysis.",
+      "imageUrl": "https://images.unsplash.com/photo-1579226905180-636b76d96082?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxidXNpbmVzcyUyMGNoYXJ0fGVufDB8fHx8MTc2NzM3MDg1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business chart"
+    }
+  ]
+}
